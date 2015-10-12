@@ -11,7 +11,7 @@ setup(name='aiotkinter',
       url='https://github.com/montag451/aiotkinter',
       description='An asyncio API for the Tkinter event loop',
       long_description=open('README.rst').read(),
-      version='0.1',
+      version='0.2',
       classifiers=[
           'Development Status :: 3 - Alpha',
           'Intended Audience :: Developers',
