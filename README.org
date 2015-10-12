@@ -1,5 +1,6 @@
 #+TITLE: An asyncio API for the Tkinter event loop
 #+OPTIONS: ^:nil
+#+OPTIONS: toc:nil
 
 This module provide an asyncio API for the the Tkinter event loop
 

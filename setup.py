@@ -10,7 +10,7 @@ setup(name='aiotkinter',
       maintainer_email='montag451 at laposte.net',
       url='https://github.com/montag451/aiotkinter',
       description='An asyncio API for the Tkinter event loop',
-      long_description=open('README.org').read(),
+      long_description=open('README.rst').read(),
       version='0.1',
       classifiers=[
           'Development Status :: 3 - Alpha',
